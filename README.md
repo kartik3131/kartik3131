@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik3131
-- 👀 I’m interested in Data Science and Web development
-- 🌱 I’m currently learning Java and Matlab
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Software Engineering and Web Development
+- 🌱 I’m currently learning Java and Data Structure Algorithm
+- 💞️ I’m looking to collaborate on Web development projects.
 
 
 <!---
